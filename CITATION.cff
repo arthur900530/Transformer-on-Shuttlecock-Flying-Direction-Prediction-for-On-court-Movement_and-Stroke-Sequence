@@ -5,5 +5,5 @@ authors:
     given-names: Yu-Hang
     orcid: https://orcid.org/0000-0002-7334-327X
 title: "Transformer on Shuttlecock Flying Direction Prediction for On-court Movement and Stroke Sequence Synthesis"
-version: 2.0.4
+version: 1.0.0
 date-released: 2023-01-17
